@@ -1,7 +1,7 @@
 README
 ============
 
-This is the repo for the course project of the Coursera[https://www.coursera.org/] course Getting and Cleaning Data.
+This is the repo for the course project of the [Coursera](https://www.coursera.org/) course Getting and Cleaning Data.
 
 The main script is **run_analysis.R**. It requires the existence of the **UCI HAR Dataset** folder at the same location. 
 
